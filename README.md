@@ -8,5 +8,6 @@
 [volta] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p3.gif)
 ## p4
 ## p5
+[no es no] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p5.gif)
 ## p7 
 [quedatencasa] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p7.gif)
