@@ -11,5 +11,7 @@
 [no es no] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p5.gif)
 ## p7 
 [quedatencasa] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p7.gif)
-## P8
+## p8
 [FESTIVAL CORONA] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/P8_100.jpg)
+## p9
+[escenari] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p9.tif)
