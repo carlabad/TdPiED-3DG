@@ -15,3 +15,5 @@
 [FESTIVAL CORONA] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/P8_100.jpg)
 ## p9
 [escenari] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p9.tif)
+## p10
+[cuadre escenari] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p11_00000.tif)
