@@ -1,5 +1,7 @@
 # Tecniques 3º Gráfic
 4d
+## projectes plus
+https://github.com/carlabad/Tecniques-en-Magda/blob/master/p8%20plus.jpg
 ## p1
 [quan tu vas ella torna] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p1.gif) (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p1.mp4)
 ## p2
