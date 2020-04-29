@@ -20,3 +20,5 @@ https://github.com/carlabad/Tecniques-en-Magda/blob/master/p8%20plus.jpg
 [escenari] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p9.tif)
 ## p10
 [cuadre escenari] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p11_00000.tif)
+## p11
+[monigot corona] ()
