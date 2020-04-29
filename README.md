@@ -9,6 +9,7 @@ https://github.com/carlabad/Tecniques-en-Magda/blob/master/p8%20plus.jpg
 ## p3
 [volta] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p3.gif)
 ## p4
+[pàgines] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p4.gif)
 ## p5
 [no es no] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p5.gif)
 ## p7 
