@@ -7,7 +7,7 @@ https://github.com/carlabad/Tecniques-en-Magda/blob/master/p8%20plus.jpg
 ## p2
 [vent] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p2_2.gif) (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p2.mp4)
 ## p3
-[volta] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p3.gif)
+[volta] (p3.gif)
 ## p4
 [pàgines] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p4.gif)
 ## p5
