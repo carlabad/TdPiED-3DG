@@ -11,7 +11,7 @@ https://github.com/carlabad/Tecniques-en-Magda/blob/master/p8%20plus.jpg
 ## p4
 [pàgines] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p4.gif)
 ## p5
-[no es no] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p5.gif)
+[no es no] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p7_1.gif)
 ## p7 
 [quedatencasa] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p7.gif)
 ## p8
