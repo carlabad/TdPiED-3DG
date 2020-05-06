@@ -1,24 +1,33 @@
 # Tecniques 3º Gráfic
 4d
 ## projectes plus
-https://github.com/carlabad/Tecniques-en-Magda/blob/master/p8%20plus.jpg
+[p8%20plus.jpg](p8%20plus.jpg)
 ## p1
-[quan tu vas ella torna] [p1.gif](p1.gif) [p1.mp4](p1.mp4)
+quan tu vas ella torna 
+[p1.gif](p1.gif) [p1.mp4](p1.mp4)
 ## p2
-[vent] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p2_2.gif) (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p2.mp4)
+vent 
+[p2_2.gif](p2_2.gif) [p2.mp4](p2.mp4)
 ## p3
-[volta] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p3.gif)
+[volta] 
+[p3.gif](p3.gif)
 ## p4
-[pàgines] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p4.gif)
+[pàgines] 
+[p4.gif](p4.gif)
 ## p5
-[no es no] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p5.gif)
+[no es no] 
+[p5.gif](p5.gif)
 ## p7 
-[quedatencasa] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p7_1.gif)
+[quedatencasa] 
+[p7_1.gif](p7_1.gif)
 ## p8
-[FESTIVAL CORONA] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/P8_100.jpg)
+[FESTIVAL CORONA] 
+[P8_100.jpg](P8_100.jpg)
 ## p9
-[escenari] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p9.tif)
+[escenari] 
+[p9.tiff](p9.tif)
 ## p10
-[cuadre escenari] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p11_00000.tif)
+[cuadre escenari] 
+[p11_00000.tif](p11_00000.tif)
 ## p11
 [monigot corona] ()
