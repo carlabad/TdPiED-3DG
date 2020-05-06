@@ -1,5 +1,5 @@
 # Tecniques 3º Gráfic
-4d
+Hi han pràctiques que no he pogut pujar el mp4 per que pesava molt, si el necessitares avisam i t'ho envie per correu! :)
 ## projectes plus
 [p8%20plus.jpg](p8%20plus.jpg)
 ## p1
