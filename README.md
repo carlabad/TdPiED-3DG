@@ -3,10 +3,10 @@
 ## projectes plus
 [p8%20plus.jpg](p8%20plus.jpg)
 ## p1
-quan tu vas ella torna 
+[quan tu vas ella torna ]
 [p1.gif](p1.gif) [p1.mp4](p1.mp4)
 ## p2
-vent 
+[vent ]
 [p2_2.gif](p2_2.gif) [p2.mp4](p2.mp4)
 ## p3
 [volta] 
