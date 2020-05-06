@@ -31,3 +31,4 @@ Hi han pràctiques que no he pogut pujar el mp4 per que pesava molt, si el neces
 [p11_00000.tif](p11_00000.tif)
 ## p11
 [monigot corona] [p11.jpg](p11.jpg)
+el monigot esta en mig de la composicio, pero no se per que no es visualitza al complet.
