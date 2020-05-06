@@ -3,7 +3,7 @@
 ## projectes plus
 https://github.com/carlabad/Tecniques-en-Magda/blob/master/p8%20plus.jpg
 ## p1
-[quan tu vas ella torna] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p1.gif) (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p1.mp4)
+[quan tu vas ella torna] (p1.gif) (p1.mp4)
 ## p2
 [vent] (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p2_2.gif) (https://github.com/carlabad/Tecniques-en-Magda/blob/master/p2.mp4)
 ## p3
