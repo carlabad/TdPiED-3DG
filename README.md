@@ -30,4 +30,4 @@ Hi han pràctiques que no he pogut pujar el mp4 per que pesava molt, si el neces
 [cuadre escenari] 
 [p11_00000.tif](p11_00000.tif)
 ## p11
-[monigot corona] ()
+[monigot corona] [p11.jpg](p11.jpg)
